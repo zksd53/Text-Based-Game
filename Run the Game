@@ -1,0 +1,29 @@
+How to Run the Game on Your Local Machine 🖥️🎮  
+
+Follow these steps to set up and run *Escape the Maze* on your system:  
+
+1️⃣ Locate the File in the Main Branch
+- Navigate to the repository where the file is stored.  
+- Ensure you are in the **main branch** of the repository.  
+
+2️⃣ Download the File  
+- Download the `logic.java` file.  
+- Save it to a desired location on your local machine.  
+
+3️⃣ Navigate to the Directory 
+- Open a terminal or command prompt.  
+- Use the following commands to locate the file:  
+  ```sh
+  ls- provides a list of files in the directory  
+  cd <folder_name>  - helps us to move into the desired folder  
+  cd ..     - Can help to go back to previous folder  
+  ```
+- Ensure you are inside the directory where `logic.java` is saved.  
+
+4️⃣ Compile and Run the Ga*  
+- Run the following commands:  
+  ```sh
+  javac logic.java    
+  java logic         #
+  ```
+The game will start in your terminal.
