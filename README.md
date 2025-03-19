@@ -1,4 +1,4 @@
-🕹️ Game Overview:
+                                                                      🕹️ Game Overview:
 Escape the Maze is a simple text-based adventure game where the player ('Z') must navigate a randomly generated board while avoiding the dragon and collecting money.
 
 The board size is randomly determined between 5x5 and 10x10.
@@ -14,4 +14,5 @@ The game ends when the player either:
 Collects money and reaches the trap (Win with money ✅).
 Reaches the trap without money (Win but no money 😕).
 Gets caught by the dragon (Game Over ❌).
+                                                                       
 
