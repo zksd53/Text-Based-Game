@@ -1,0 +1,8 @@
+
+Q:1) While Creating the character's coordinates It needed to be different such that it doesn't meet?
+A:1) I created methods to give different position while passing the value of a certain character such that they shouldn't be same. For example -> I created an random
+place for coin and inside the wall, later i passed it's coordinate to another method so both the coordinates shouldn't be same. Followed this approach till I had all the coordinates.
+
+Q:2) Logic Implementation:
+A:2) I used 2-D array to generate the grid and further placed the random generate coordinates for them by equalizing them to the value. Further I figured out to use loops 
+as a way such that if the coordinates our equal to either of the characters the game can further proceed. 
